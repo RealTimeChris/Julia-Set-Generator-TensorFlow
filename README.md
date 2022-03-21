@@ -27,7 +27,7 @@ Some of my personal favorites that were made visible using this program:
 -0.835 + 0.22i
 ![-0.835 + 0.22i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/-0.835%20+%200.22i.jpg?raw=true)
 0.285 + 0.012i
-![0.285 + 0.012i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blobmain/Images/0.285%20+%200.012i.jpg?raw=true)
+![0.285 + 0.012i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/0.285%20+%200.012i.jpg?raw=true)
 -0.764 + 0.1185i
 ![-0.764 + 0.1185i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/-0.764%20+%200.1185i.jpg?raw=true)
 
