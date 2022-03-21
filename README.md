@@ -25,33 +25,33 @@ Some quick notes:
 Some of my personal favorites that were made visible using this program:
 <br>
 -0.835 + 0.22i
-![-0.835 + 0.22i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/-0.835%20+%200.22i.jpg?raw=true)
+![-0.835 + 0.22i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/-0.835%20+%200.22i.jpg?raw=true)
 0.285 + 0.012i
-![0.285 + 0.012i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/0.285%20+%200.012i.jpg?raw=true)
+![0.285 + 0.012i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blobmain/Images/0.285%20+%200.012i.jpg?raw=true)
 -0.764 + 0.1185i
-![-0.764 + 0.1185i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/-0.764%20+%200.1185i.jpg?raw=true)
+![-0.764 + 0.1185i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/-0.764%20+%200.1185i.jpg?raw=true)
 
 <br>
 
 A couple more sets that were generated, and the color channel mapping functions used for coloring them:
 <br>
 0.274 + 0.0063i
-![0.274 + 0.0063i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/0.274%20+%200.0063i.jpg?raw=true)
+![0.274 + 0.0063i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/0.274%20+%200.0063i.jpg?raw=true)
 0.4 + 0.071i
-![0.4 0.071i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/0.4%20+%200.071i.jpg?raw=true)
-![Color Channel Mapping Functions:](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/Color%20Channel%20Mapping%20Functions%20-%20The%20Blue.png?raw=true)
+![0.4 0.071i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/0.4%20+%200.071i.jpg?raw=true)
+![Color Channel Mapping Functions:](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/Color%20Channel%20Mapping%20Functions%20-%20The%20Blue.png?raw=true)
 
 <br>
 
 Visualization of the computational graph with TensorBoard:
-![Computational Graph Visualization](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/Computational%20Graph%20Visualization.png?raw=true)
+![Computational Graph Visualization](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/Computational%20Graph%20Visualization.png?raw=true)
 
 <br>
 
 TensorBoard Histogram Summaries:
-![Histogram Summaries](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/Histogram%20Summaries.png?raw=true)
+![Histogram Summaries](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/Histogram%20Summaries.png?raw=true)
 
 <br>
 
 TensorBoard Image Summaries:
-![Image Summaries](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/Image%20Summaries.png?raw=true)
+![Image Summaries](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/main/Images/Image%20Summaries.png?raw=true)
